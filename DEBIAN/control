@@ -1,0 +1,9 @@
+package: evhetzner-service
+Version: 0.0.1
+Architecture: amd64
+Section: admin
+Essential: no
+Priority: optional
+Depends: supervisor (>= 4.1.0)
+Maintainer: opunix <francsic.simon@evalgo.org>
+Description: evhetzner service is a middleware for Hetzner cloud infrastructure

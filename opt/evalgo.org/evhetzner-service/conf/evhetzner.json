@@ -1,6 +1,5 @@
 {
   "webroot":"/opt/evalgo.org/evhetzner-service/webroot",
   "address":"0.0.0.0:9999",
-  "token":"",
-  "dnsToken":""
+  "token":""
 }
